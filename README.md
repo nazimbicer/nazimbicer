@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nazimbicer
-- 👀 I’m interested in frontend.
-- 🌱 I’m currently learning node.js
+
 - 📫 nazimbicer2@gmail.com
 
 <!---
